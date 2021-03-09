@@ -1,0 +1,3 @@
+int64 battery_num
+---
+int64 remain_time
